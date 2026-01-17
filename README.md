@@ -1,4 +1,4 @@
-#  EGYPTAIR AI Voice Assistant: Reimagining Flight Booking with Groq & LiveKit
+#  EGYPTAIR AI Voice Assistant: Flight Booking with Groq & LiveKit
 
 Welcome to the **EGYPTAIR Voice Assistant** – a cutting-edge, low-latency voice agent designed to transform how users find and book flights. This isn't just a chatbot; it’s a fully autonomous voice agent that "thinks" and "acts" in real-time to provide actual flight data using a sophisticated AI stack.
 
@@ -67,4 +67,5 @@ I carefully selected these tools to balance speed, intelligence, and reliability
 
 ---
 <img width="1600" height="778" alt="image" src="https://github.com/user-attachments/assets/adcbf8d6-6e53-4257-8cce-50f9bfddf6aa" />
+
 
