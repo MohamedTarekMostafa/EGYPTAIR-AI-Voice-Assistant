@@ -1,6 +1,5 @@
 #  EGYPTAIR AI Voice Assistant: The Pipeline Foundation (V1)
 
-> ** NEW: I have evolved this project!** > Experience the next generation with **10x lower latency** and **Native Audio Intelligence** in the new **Realtime API Version**.
 > #### 👉 [Check out the Realtime API Version here](https://github.com/MohamedTarekMostafa/Realtime-AI-Voice-Assistance)
 
 ---
@@ -14,7 +13,7 @@ https://github.com/user-attachments/assets/d479907b-22f3-45a6-a2ae-786687f943cf
 ---
 
 ##  Project Overview
-"This project was my first deep dive into reinventing the travel experience. I wanted to see if I could build a voice concierge for EGYPTAIR that felt less like a computer and more like a real person. I started with a Sequential Pipeline (linking speech, logic, and voice) to push the boundaries of how AI handles complex, real-world tasks like fetching live flight data on the fly."
+This project was my first deep dive into reinventing the travel experience. I wanted to see if I could build a voice concierge for EGYPTAIR that felt less like a computer and more like a real person. I started with a Sequential Pipeline (linking speech, logic, and voice) to push the boundaries of how AI handles complex, real-world tasks like fetching live flight data on the fly.
 ### Why This Project Matters
 Most voice assistants feel sluggish. This project solved that by leveraging **Groq’s LPU inference** for near-instant reasoning and **LiveKit’s real-time communication protocol**. 
 
@@ -50,3 +49,4 @@ While this V1 Pipeline is highly optimized, it led me to explore the **Native Mu
 
 ---
 *This project was the essential foundation for my journey into high-performance AI Voice Agents.*
+
