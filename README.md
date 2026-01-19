@@ -4,7 +4,7 @@
 
 ---
 
-## 📺 The Pipeline in Action
+##  The Pipeline in Action
 
 
 https://github.com/user-attachments/assets/d479907b-22f3-45a6-a2ae-786687f943cf
@@ -49,4 +49,5 @@ While this V1 Pipeline is highly optimized, it led me to explore the **Native Mu
 
 ---
 *This project was the essential foundation for my journey into high-performance AI Voice Agents.*
+
 
